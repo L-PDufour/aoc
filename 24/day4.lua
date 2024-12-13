@@ -164,3 +164,6 @@ end
 if loadGrid("./input-day4.txt") then
 	checkAllRowsAndColumns()
 end
+
+-- 2367
+-- 2362
